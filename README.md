@@ -9,12 +9,12 @@ Import the database file( Database will be avail in the package)
  Link for the project: http://localhost/shopping
 Link for admin Panel: http://localhost/shopping/admin
 
-*************Login Details For User***************
+*************Login Details For User**************
 
 Username : johndeo@gmail.com
 Password : Test@123
 
-*************For Admin ******************
+*************For Admin**************
 
 User Name : admin
 Password : Test@123
